@@ -306,11 +306,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = BWYT76Q3DS;
+				DEVELOPMENT_TEAM = 7TH8TG8CBB;
 				INFOPLIST_FILE = ReactionTime/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = jhhs.ReactionTime;
+				PRODUCT_BUNDLE_IDENTIFIER = jhhs.mhuynh1002.ReactionTime;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 4.0;
@@ -322,11 +322,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = BWYT76Q3DS;
+				DEVELOPMENT_TEAM = 7TH8TG8CBB;
 				INFOPLIST_FILE = ReactionTime/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = jhhs.ReactionTime;
+				PRODUCT_BUNDLE_IDENTIFIER = jhhs.mhuynh1002.ReactionTime;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 4.0;
